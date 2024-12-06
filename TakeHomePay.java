@@ -52,6 +52,7 @@ public class TakeHomePay {
 		
 		TakeHomePay1.CalMonthlyPay();
 		Scan1.close();
+		System.out.println("Done");
 				
 	}
 
